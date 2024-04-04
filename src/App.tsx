@@ -1,7 +1,5 @@
 import "./App.css";
 import { useState } from "react";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faBars, faHeartCirclePlus } from "@fortawesome/free-solid-svg-icons";
 import { cats } from "./data/cats";
 import { Cat } from "./types/Cat";
 import CatCard from "./components/CatCard";
