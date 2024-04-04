@@ -85,4 +85,3 @@ function App() {
 }
 
 export default App;
-// i want to separate into a component this part of the code and the import it to app.jsx correctly
