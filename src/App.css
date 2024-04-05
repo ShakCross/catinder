@@ -95,6 +95,7 @@
 .title {
   color: orange;
   font-weight: 900;
+  font-family: "Courier New", Courier, monospace;
 }
 
 .content {
